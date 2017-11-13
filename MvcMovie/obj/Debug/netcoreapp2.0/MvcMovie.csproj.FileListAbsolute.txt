@@ -1,0 +1,33 @@
+\\ac.stockton\root\userhome\laboye\Documents\2017-2018\CSIT-4135\10-2017\week 4\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.deps.json
+\\ac.stockton\root\userhome\laboye\Documents\2017-2018\CSIT-4135\10-2017\week 4\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.json
+\\ac.stockton\root\userhome\laboye\Documents\2017-2018\CSIT-4135\10-2017\week 4\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.dev.json
+\\ac.stockton\root\userhome\laboye\Documents\2017-2018\CSIT-4135\10-2017\week 4\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.dll
+\\ac.stockton\root\userhome\laboye\Documents\2017-2018\CSIT-4135\10-2017\week 4\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.pdb
+\\ac.stockton\root\userhome\laboye\Documents\2017-2018\CSIT-4135\10-2017\week 4\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csprojResolveAssemblyReference.cache
+\\ac.stockton\root\userhome\laboye\Documents\2017-2018\CSIT-4135\10-2017\week 4\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csproj.CoreCompileInputs.cache
+\\ac.stockton\root\userhome\laboye\Documents\2017-2018\CSIT-4135\10-2017\week 4\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfoInputs.cache
+\\ac.stockton\root\userhome\laboye\Documents\2017-2018\CSIT-4135\10-2017\week 4\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfo.cs
+\\ac.stockton\root\userhome\laboye\Documents\2017-2018\CSIT-4135\10-2017\week 4\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.dll
+\\ac.stockton\root\userhome\laboye\Documents\2017-2018\CSIT-4135\10-2017\week 4\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.pdb
+C:\Users\Evan\Desktop\MvcMovie\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.deps.json
+C:\Users\Evan\Desktop\MvcMovie\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.json
+C:\Users\Evan\Desktop\MvcMovie\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.dev.json
+C:\Users\Evan\Desktop\MvcMovie\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.dll
+C:\Users\Evan\Desktop\MvcMovie\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.pdb
+C:\Users\Evan\Desktop\MvcMovie\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csprojResolveAssemblyReference.cache
+C:\Users\Evan\Desktop\MvcMovie\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csproj.CoreCompileInputs.cache
+C:\Users\Evan\Desktop\MvcMovie\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfoInputs.cache
+C:\Users\Evan\Desktop\MvcMovie\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfo.cs
+C:\Users\Evan\Desktop\MvcMovie\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.dll
+C:\Users\Evan\Desktop\MvcMovie\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.pdb
+C:\Users\Evan\Desktop\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.deps.json
+C:\Users\Evan\Desktop\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.json
+C:\Users\Evan\Desktop\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.dev.json
+C:\Users\Evan\Desktop\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.dll
+C:\Users\Evan\Desktop\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.pdb
+C:\Users\Evan\Desktop\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csprojResolveAssemblyReference.cache
+C:\Users\Evan\Desktop\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csproj.CoreCompileInputs.cache
+C:\Users\Evan\Desktop\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfoInputs.cache
+C:\Users\Evan\Desktop\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfo.cs
+C:\Users\Evan\Desktop\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.dll
+C:\Users\Evan\Desktop\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.pdb
