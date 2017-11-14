@@ -1,8 +1,11 @@
 ﻿@model MvcMovie.Models.Movie
+
 @{
     ViewData["Title"] = "Details";
 }
+
 <h2>Details</h2>
+
 <div>
     <h4>Movie</h4>
     <hr />
@@ -12,6 +15,12 @@
         </dt>
         <dd>
             @Html.DisplayFor(model => model.Title)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Rating)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Rating)
         </dd>
         <dt>
             @Html.DisplayNameFor(model => model.ReleaseDate)
